@@ -5,7 +5,7 @@ function Header() {
     <header className="bg-white shadow-md">
       <div className="container mx-auto px-4 py-6 text-center">
         <img
-          src="/src/assets/avatar.jpg"
+          src="/public/avatar.jpg"
           alt="Davi Silva da Cruz Avatar"
           className="w-32 h-32 rounded-full mx-auto mb-4 object-cover border-2 border-gray-300"
         />
