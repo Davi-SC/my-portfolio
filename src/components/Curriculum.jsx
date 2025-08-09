@@ -25,6 +25,7 @@ function Curriculum() {
               <strong>{project.title}</strong>: {project.description}
               {project.link && (
                 <a
+                  target="_blank"
                   href={project.link}
                   className="text-blue-600 hover:underline ml-2"
                 >
